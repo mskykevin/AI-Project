@@ -42,6 +42,7 @@ If I'm *training or studying how models learn* → Machine-Learning.
 | Date | Topic | What I did | Link |
 | --- | --- | --- | --- |
 | 2026-10-11 | Getting started | Created this repo and picked AI repos to follow | — |
+| 2026-10-13 | First open-source contribution ✅ | Forked `first-contributions`, added my name on a branch, opened a pull request | [notes](contributions/first-contributions.md) |
 
 ---
 
