@@ -33,6 +33,7 @@ If I'm *training or studying how models learn* → Machine-Learning.
 | `prompts/` | Prompts I've written or collected that work well |
 | `notes/` | What I learned from AI courses, videos, and articles |
 | `practice/` | Small exercises (calling an AI API, building a tool, etc.) |
+| [`skills/`](skills/skills.md) | Git skills, agent skills, and best practices for working with AI agents |
 | `contributions/` | Notes on open-source PRs/issues I worked on |
 
 > Folders get created as I add things to them.
@@ -43,6 +44,7 @@ If I'm *training or studying how models learn* → Machine-Learning.
 | --- | --- | --- | --- |
 | 2026-10-11 | Getting started | Created this repo and picked AI repos to follow | — |
 | 2026-10-13 | First open-source contribution ✅ | Forked `first-contributions`, added my name on a branch, opened a pull request | [notes](contributions/first-contributions.md) |
+| 2026-10-18 | Git + agent skills | Collected Git courses, best practices, and Agent Skills for daily work | [skills](skills/skills.md) |
 
 ---
 
